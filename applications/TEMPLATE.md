@@ -7,11 +7,12 @@
 
 ## 1. Name
 
-Anmol Sahani 123
+_Your full name._
 
 ## 2. Portfolio
 
-anmolsahani.works
+_Link to your portfolio, site, Dribbble, Behance, Notion — anywhere we can see your work._
+
 ## 3. LinkedIn
 
 _Link to your LinkedIn profile._
